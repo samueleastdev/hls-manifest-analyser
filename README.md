@@ -1,4 +1,4 @@
-# A simple bash script to download hls manifests for debugging
+# A simple bash script to download hls manifests to help with debugging
 
 ## Clone the repo
 
